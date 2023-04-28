@@ -1,0 +1,2 @@
+# Profit-of-Company-Analysis
+Here in this repo a company's profit accuracy is calculated.Through Linear Regression Machine Learning(ML) Algorithm,a ML model is created for deep insights regarding Profit based on domains of a company.From the past records here is a clear view on how certain domains turns profit of invested money.The investors will get clear view on which sectors gives more profit bigger than invested amount on it.
